@@ -30,6 +30,18 @@
 </p>
 
 ---
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/aniket-kasav">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:kasavaniket15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 <p align="center">
   🚀 Learning. Building. Improving.
