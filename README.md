@@ -43,9 +43,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Aniket_03/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45" style="filter: invert(1);" />
   </a>
 </p>
+
 
 ---
 
