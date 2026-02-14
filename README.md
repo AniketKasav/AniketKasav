@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://leetcode.com/u/Aniket_03/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
