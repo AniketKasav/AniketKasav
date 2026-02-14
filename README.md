@@ -1,32 +1,36 @@
-<h1 align="center">Aniket Kasav</h1>
-<p align="center">Engineering Student • Web Development</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=150&section=header&text=Aniket%20Kasav&fontSize=30&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Engineering Student | Web Development Enthusiast</h2>
 
 ---
 
-## About
+## 🚀 About Me
 
-- BE Engineering Student
-- Interested in backend systems & scalable applications
-- Building real-world web projects
-- Learning clean architecture & deployment workflows
-
----
-
-## Stack
-
-React • Node.js • Express • MongoDB • Socket.io  
-Tailwind CSS • Git • Vercel • Render  
+- 🎓 BE Engineering Student  
+- 💻 Exploring backend systems  
+- 🌱 Building scalable web applications  
+- 🚀 Deploying projects to production  
 
 ---
 
-## GitHub Stats
+## 🛠 Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AniketKasav&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,github,vercel" />
 </p>
 
 ---
 
-📫 Connect:  
-LinkedIn: YOUR_LINK  
-Email: YOUR_EMAIL
+## 📊 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AniketKasav&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  🚀 Learning. Building. Improving.
+</p>
