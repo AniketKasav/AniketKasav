@@ -41,6 +41,9 @@
   <a href="mailto:kasavaniket15@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://leetcode.com/u/Aniket_03/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
 </p>
 
 <p align="center">
