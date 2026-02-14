@@ -35,18 +35,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-kasav" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Aniket%20Kasav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:kasavaniket15@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Aniket_03/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45" style="filter: invert(1);" />
+    <img src="https://img.shields.io/badge/LeetCode-Aniket_03-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
