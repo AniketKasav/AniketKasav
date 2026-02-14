@@ -18,7 +18,7 @@
 ## 🛠 Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,github,vercel" />
 </p>
 
 ---
@@ -30,21 +30,24 @@
 </p>
 
 ---
----
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/aniket-kasav">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/aniket-kasav" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:kasavaniket15@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  <a href="https://leetcode.com/u/Aniket_03/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Aniket_03/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   🚀 Learning. Building. Improving.
