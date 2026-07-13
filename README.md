@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Hi%20There,%20I'm%20Aniket%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:6366f1&height=200&section=header&text=Aniket%20Kasav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=55&descSize=18" />
 </p>
 
-<h3 align="center">Full-Stack Developer | AI & Data Science Student | Building Real-Time Web Platforms</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+real-time+MERN+applications;WebRTC+%2B+Socket.IO+%2B+AI+integrations;Currently+shipping+SmartMeet+AI+%26+HobbySphere" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-kasav" target="_blank">
@@ -76,22 +78,34 @@ Full-stack real-time social platform for hobby communities.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AniketKasav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketKasav&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=AniketKasav&theme=tokyonight&hide_border=true&cache_seconds=0" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AniketKasav&theme=tokyonight&hide_border=true&cache_seconds=0" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketKasav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketKasav&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketKasav&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Trophies
 
-- 🥇 **1st Place** — Prompthon, Google Developer Group (GDG) 2025
-- 🏅 **Best Intern Award** — NITS Nashik, Dec 2024
-- 🤾 **Kabaddi Winner** — Spatrang College Gathering 2026
-- 🧠 **180+ Problems Solved** on LeetCode
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AniketKasav&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+| | |
+|---|---|
+| 🥇 **1st Place** | Prompthon, Google Developer Group (GDG) 2025 |
+| 🏅 **Best Intern Award** | NITS Nashik, Dec 2024 |
+| 🤾 **Kabaddi Winner** | Spatrang College Gathering 2026 |
+| 🧠 **180+ Problems Solved** | LeetCode |
+
+---
 
 ---
 
@@ -99,4 +113,6 @@ Full-stack real-time social platform for hobby communities.
   <i>🚀 Learning. Building. Improving.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:4338ca,100:0f172a&height=150&section=footer" width="100%"/>
+</p>
