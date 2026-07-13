@@ -95,7 +95,7 @@ Full-stack real-time social platform for hobby communities.
 ### 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AniketKasav&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-red-two.vercel.app/?username=AniketKasav&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
 
 | | |
