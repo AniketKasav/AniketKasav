@@ -103,7 +103,7 @@ Full-stack real-time social platform for hobby communities.
 | 🥇 **1st Place** | Prompthon, Google Developer Group (GDG) 2025 |
 | 🏅 **Best Intern Award** | NITS Nashik, Dec 2024 |
 | 🤾 **Kabaddi Winner** | Spatrang College Gathering 2026 |
-| 🧠 **180+ Problems Solved** | LeetCode |
+| 🧠 **230+ Problems Solved** | LeetCode |
 
 ---
 
