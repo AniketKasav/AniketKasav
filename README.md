@@ -78,7 +78,7 @@ Full-stack real-time social platform for hobby communities.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="#"><img src="https://streak-stats.demolab.com?user=AniketKasav&theme=tokyonight&hide_border=true&cache_seconds=0" height="150"/></a>
+  <a href="#"><img src="https://streak-stats.demolab.com?user=AniketKasav&theme=tokyonight&hide_border=true&cache_seconds=0&v=1" height="150"/></a>
 </p>
 
 <p align="center">
