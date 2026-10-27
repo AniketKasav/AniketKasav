@@ -2,9 +2,9 @@
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:6366f1&height=200&section=header&text=Aniket%20Kasav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20and%20AI%20Data%20Science%20Student&descAlignY=55&descSize=18" width="100%"/></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+real-time+MERN+applications;WebRTC+%2B+Socket.IO+%2B+AI+integrations;Currently+shipping+SmartMeet+AI+%26+HobbySphere" alt="Typing SVG" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-kasav">
